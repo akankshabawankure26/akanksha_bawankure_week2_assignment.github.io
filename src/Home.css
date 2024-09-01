@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: rebeccapurple;
+    margin-bottom: 12px;
+}
+nav ul li {
+    display: inline;
+    padding: 50px;
+}
+ nav ul {
+    list-style-type: none;
+}
+
+
+ul{
+    align-content: center;
+    background-color: yellow;
+    width: 800px;
+    height: 50px;
+}
+
+li{
+    color: red;
+} 
